@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi there My name is Anawil. I made this tutorial to walkthough how to make JAMstack website.
+Enjoy!
+Further, infomation about this theme : https://github.com/panr/hugo-theme-terminal</description>
+    </item>
+    
+    <item>
+      <title>Hello Youtube</title>
+      <link>/posts/hello/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description>This is link to download hugo : https://github.com/gohugoio/hugo/releases/download/v0.71.0/hugo_0.71.0_Windows-64bit.zip
+To install Hugo on Windows
+ 1st step : Download hugo from the link that I suggested. 2rd step : Extract to the place you wished for example (D:hugo/bin) 3nd step : Go to enviroment variable and set the part of the hugo for example (D:/hugo/bin) 4nd step : Check is the hugo installed by go to cmd and type(C:&amp;gt;hugo version)  </description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>/showcase/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/showcase/</guid>
+      <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Youtube</title>
+      <link>/posts/hello/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description>This is link to download hugo : https://github.com/gohugoio/hugo/releases/download/v0.71.0/hugo_0.71.0_Windows-64bit.zip
+To install Hugo on Windows
+ 1st step : Download hugo from the link that I suggested. 2rd step : Extract to the place you wished for example (D:hugo/bin) 3nd step : Go to enviroment variable and set the part of the hugo for example (D:/hugo/bin) 4nd step : Check is the hugo installed by go to cmd and type(C:&amp;gt;hugo version)  </description>
+    </item>
+    
+  </channel>
+</rss>

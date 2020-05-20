@@ -1,0 +1,24 @@
+{
+  "name": "quickstart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "hugo",
+    "start": "hugo server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anawil/myblong-hugo-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anawil/myblong-hugo-tutorial/issues"
+  },
+  "homepage": "https://github.com/anawil/myblong-hugo-tutorial#readme",
+  "keywords": [],
+  "description": ""
+}
